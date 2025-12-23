@@ -2,11 +2,10 @@
 
 ## Project Overview
 
-**Project Title**: Library Management System  
-**Level**: Intermediate  
+**Project Title**: Library Management System Portfolio SQL
 **Database**: `library_managementDB`
 
-This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
+This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
 
 ![Library_project](https://github.com/najirh/Library-System-Management---P2/blob/main/library.jpg)
 
@@ -284,4 +283,5 @@ WHERE rs.return_id IS NULL
 ```
 
 This project showcases SQL skills essential for database management and analysis.
+
 
